@@ -61,20 +61,20 @@
     @include animation-duration(0.5s);
 }
 
-@import "fade-in";
-@import "fade-out";
+@import "animations/fade-in";
+@import "animations/fade-out";
 
-@import "fade-in-up";
-@import "fade-out-up";
+@import "animations/fade-in-up";
+@import "animations/fade-out-up";
 
-@import "fade-in-down";
-@import "fade-out-down";
+@import "animations/fade-in-down";
+@import "animations/fade-out-down";
 
-@import "fade-in-left";
-@import "fade-out-left";
+@import "animations/fade-in-left";
+@import "animations/fade-out-left";
 
-@import "fade-in-right";
-@import "fade-out-right";
+@import "animations/fade-in-right";
+@import "animations/fade-out-right";
 
-@import "bounce-in";
-@import "bounce-out";
+@import "animations/bounce-in";
+@import "animations/bounce-out";
