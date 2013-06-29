@@ -5,11 +5,7 @@ Mixins and aniations for Compass
 ## Usage
 import the "animations" folder in your project
 
-```scss
-.box {
-    @extend %fadeIn;
-}
-```
+## Animations
 
 `fadeIn`, `fadeOut`, `fadeInUp`, `fadeInDown`, `fadeOutDown`, `fadeInLeft`, `fadeOutLeft`, `fadeInRight`, `fadeOutRight`, `bounceIn`, `bounceOut`
 
